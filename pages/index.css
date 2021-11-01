@@ -45,11 +45,11 @@
 
 /* feyman */
 
-@import url(../blocks/feyman/fayman.css);
-@import url(../blocks/feyman/__main-illustration/feyman__main-illustration.css);
-@import url(../blocks/feyman/__title/feyman__title.css);
-@import url(../blocks/feyman/__subtitle/feyman__subtitle.css);
-@import url(../blocks/feyman/__link/feyman__link.css);
+@import url(../blocks/feynman/faynman.css);
+@import url(../blocks/feynman/__main-illustration/feynman__main-illustration.css);
+@import url(../blocks/feynman/__title/feynman__title.css);
+@import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
+@import url(../blocks/feynman/__link/feynman__link.css);
 
 /* digits */
 
